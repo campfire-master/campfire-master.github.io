@@ -1,0 +1,12 @@
+<svg width="949" height="256" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 949 256" version="1.1">
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m110.85125,128l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#2366d1"/>
+  <path id="svg_2" d="m110.85125,64l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#609dff"/>
+  <path id="svg_3" d="m110.85125,0l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#a4c7ff"/>
+  <g id="svg_4" fill="#333" transform="translate(300 55.695) scale(0.7 0.7)"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" fill="#000000" id="svg_6" y="125" x="291.5"/>
+  <text fill="#4c4c4c" stroke="#000" stroke-width="0" x="275" y="177" id="svg_5" font-size="135" font-family="'Bodoni Moda'" text-anchor="start" xml:space="preserve" font-weight="bold" font-style="normal">冒险者营地</text>
+ </g>
+
+</svg>
